@@ -1,5 +1,7 @@
 ## 🧭 COS’È LA CACHE HTTP
 
+**Recap completo e chiaro sulla cache HTTP** e sulle **impostazioni principali** che possono essere definite nei protocolli HTTP (soprattutto tramite header).
+
 La **cache HTTP** serve a **ridurre i tempi di caricamento** e **limitare le richieste al server** conservando copie locali (browser, proxy, CDN) delle risorse già scaricate — come immagini, CSS, JS o HTML.
 
 Quando un client richiede una risorsa, il browser o un proxy può restituire una **versione salvata**, evitando di chiedere nuovamente al server (se le regole lo permettono).
